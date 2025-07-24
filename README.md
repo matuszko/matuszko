@@ -1,10 +1,7 @@
 ---
 
 ### :herb: About Me :
-
-- :telescope: I'm Engineering and Data Analysis student at Rzeszów University of Technology.
-- :new_moon: In my free time, I develop my skills in Data Engenieering.
-- :paw_prints: Curently working on developing Jupyter Hub using Docker.
+TBD
 
 ---
 
