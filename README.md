@@ -1,19 +1,27 @@
----
-
-### :herb: About Me :
-TBD
+## 👋 Cześć, jestem Jakub!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-</div>
+## 👨‍💻 O mnie
+
+- 💼 Na co dzień zajmuję się tworzeniem rozwiązań webowych do wizualizacji danych — od backendu, przez ETL, aż po interfejs użytkownika.
+- 🧠 Interesuje mnie efektywne łączenie świata danych z nowoczesnymi technologiami frontendowymi.
+- 🎓 Jestem absolwentem **Politechniki Rzeszowskiej** na kierunku **Inżynieria i Analiza Danych**.
+- 📚 Obecnie kontynuuję naukę na studiach magisterskich **Big Data i Analityka Biznesowa** w **Wyższej Szkole Informatyki i Zarządzania** w Rzeszowie.
+
+---
+
+## 🧰 Technologie, z których korzystam najczęściej
+
+- **Python** (Pandas, FastAPI, Django)
+- **SQL** (PostgreSQL, MS SQL Server, Oracle SQL Server)
+- **HTML/CSS/JavaScript**
+- **Tailwind CSS**, **HTMX**, **Alpine.js**
+- **Power BI** i inne narzędzia do wizualizacji danych
+- **Docker**, **Git**, **Airflow**
+
+---
+
+## 📫 Kontakt
+
+Jeśli chcesz się ze mną skontaktować — napisz przez GitHub lub na [LinkedIn](https://www.linkedin.com/in/matuszko-jakub/)
